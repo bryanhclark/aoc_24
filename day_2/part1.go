@@ -34,6 +34,7 @@ func isSafe(arr []string) bool {
 		}
 	}
 
+	//
 	return isSafe
 }
 
